@@ -6,3 +6,4 @@ abc ver.1.0
 master ver.1.0
 abc ver.1.0
 change master
+git ver.1.2
