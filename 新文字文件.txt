@@ -2,3 +2,4 @@ git add
 git commit first
 git commit second
 abc function
+abc ver.1.0
